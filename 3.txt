@@ -1,0 +1,83 @@
+18:36:41.942 Navigated to https://www.forever21.com/
+18:36:45.667 VM4301 harvester_sub_testapic.js:9 Window {window: Window, self: Window, document: document, name: '', location: Location, …}
+18:36:46.060 harvester_sub_testapic.js:9 Window {window: Window, self: Window, document: document, name: '', location: Location, …}
+18:36:46.102 harvester_sub_testapic.js:9 Window {window: Window, self: Window, document: document, name: '', location: Location, …}
+18:36:46.577 harvester_sub_testapic.js:9 Window {0: global, window: Window, self: Window, document: document, name: '', location: Location, …}
+18:37:15.321 In the future, Permissions Policy feature join-ad-interest-group will not be enabled by default in cross-origin iframes or same-origin iframes nested in cross-origin iframes. Calling joinAdInterestGroup will be rejected with NotAllowedError if it is not explicitly enabled
+18:37:15.321 In the future, Permissions Policy feature join-ad-interest-group will not be enabled by default in cross-origin iframes or same-origin iframes nested in cross-origin iframes. Calling joinAdInterestGroup will be rejected with NotAllowedError if it is not explicitly enabled
+18:37:15.321 In the future, Permissions Policy feature join-ad-interest-group will not be enabled by default in cross-origin iframes or same-origin iframes nested in cross-origin iframes. Calling joinAdInterestGroup will be rejected with NotAllowedError if it is not explicitly enabled
+18:37:15.321 In the future, Permissions Policy feature join-ad-interest-group will not be enabled by default in cross-origin iframes or same-origin iframes nested in cross-origin iframes. Calling joinAdInterestGroup will be rejected with NotAllowedError if it is not explicitly enabled
+18:37:15.321 In the future, Permissions Policy feature join-ad-interest-group will not be enabled by default in cross-origin iframes or same-origin iframes nested in cross-origin iframes. Calling joinAdInterestGroup will be rejected with NotAllowedError if it is not explicitly enabled
+18:37:15.321 In the future, Permissions Policy feature join-ad-interest-group will not be enabled by default in cross-origin iframes or same-origin iframes nested in cross-origin iframes. Calling joinAdInterestGroup will be rejected with NotAllowedError if it is not explicitly enabled
+18:36:49.010 harvester_sub_testapic.js:9 Window {window: Window, self: Window, document: document, name: '', location: Location, …}
+18:36:49.503 turnto-entry.ts:50 TurnTo: Could not find configuration for pageId: undefined
+window.IntersectionObserver.window.Proxy.window.TurnTo.loadPage @ turnto-entry.ts:50
+(anonymous) @ config.ts:107
+18:36:49.950 freeShippingBanner?merchantId=705&country=KE&currency=KES&culture=en-GB&cb=1696941773:25 ShowFreeShippingBanner : Container Id : SO1 not found in DOM
+18:36:50.205 harvester_sub_testapic.js:9 Window {window: Window, self: Window, document: document, name: '', location: Location, …}
+18:36:50.236 harvester_sub_testapic.js:9 Window {window: Window, self: Window, document: document, name: '', location: Location, …}
+18:36:50.422 harvester_sub_testapic.js:9 Window {window: Window, self: Window, document: document, name: '', location: Location, …}
+18:36:50.679 harvester_sub_testapic.js:9 Window {window: Window, self: Window, document: document, name: '', location: Location, …}
+18:36:50.838 (index):5154 false
+18:36:51.000 (index):5154 false
+18:36:51.247 harvester_sub_testapic.js:9 Window {window: Window, self: Window, document: document, name: '', location: Location, …}
+18:36:51.344 (index):5154 false
+18:36:51.620 (index):5154 false
+18:36:51.745 harvester_sub_testapic.js:9 Window {window: Window, self: Window, document: document, name: 'a-ssh9ubbztw2c', location: Location, …}
+18:36:51.764 harvester_sub_testapic.js:9 Window {window: Window, self: Window, document: document, name: '', location: Location, …}
+18:36:54.412 VM4491:12 dwac_d64768f7aa8fa81249fd00e9b3=ZoPU4Q-1wjM3P9O75GlerkXrqC7f86_70S4%3D|dw-only|||USD|false|America%2FLos%5FAngeles|true
+18:36:56.749 harvester_sub_testapic.js:9 Window {window: Window, self: Window, document: document, name: '', location: Location, …}
+18:37:07.925 Navigated to https://www.forever21.com/us/shop/checkout/basket
+18:37:09.369 harvester_sub_testapic.js:9 Window {window: Window, self: Window, document: document, name: '', location: Location, …}
+18:37:09.410 main.js:1 No target provided or element not found for:  button.button.body-type--deci.text-color--red.font-weight--bold.button--rounded.sold-out-item-button.text-transform--uppercase
+value @ main.js:1
+s @ main.js:1
+t @ main.js:1
+init @ main.js:1
+d @ main.js:1
+e.initModules @ main.js:1
+(anonymous) @ main.js:7
+o @ main.js:1
+(anonymous) @ main.js:7
+o @ main.js:1
+(anonymous) @ main.js:1
+(anonymous) @ main.js:1
+18:37:10.713 module-wishlist-trigger.js:1 Uncaught (in promise) TypeError: Cannot read properties of null (reading 'nextElementSibling')
+    at module-wishlist-trigger.js:1:4261
+    at NodeList.forEach (<anonymous>)
+    at e.init (module-wishlist-trigger.js:1:3911)
+    at main.js:1:19236
+(anonymous) @ module-wishlist-trigger.js:1
+e.init @ module-wishlist-trigger.js:1
+(anonymous) @ main.js:1
+Promise.then (async)
+init @ main.js:1
+d @ main.js:1
+e.initModules @ main.js:1
+(anonymous) @ main.js:7
+o @ main.js:1
+(anonymous) @ main.js:7
+o @ main.js:1
+(anonymous) @ main.js:1
+(anonymous) @ main.js:1
+18:37:10.755 harvester_sub_testapic.js:9 Window {window: Window, self: Window, document: document, name: '', location: Location, …}
+18:37:11.272 harvester_sub_testapic.js:9 Window {window: Window, self: Window, document: document, name: '', location: Location, …}
+18:37:11.942 harvester_sub_testapic.js:9 Window {0: Window, window: Window, self: Window, document: document, name: '', location: Location, …}
+18:37:15.076 turnto-entry.ts:50 TurnTo: Could not find configuration for pageId: undefined
+window.IntersectionObserver.window.Proxy.window.TurnTo.loadPage @ turnto-entry.ts:50
+(anonymous) @ config.ts:107
+18:37:15.247 harvester_sub_testapic.js:9 Window {window: Window, self: Window, document: document, name: '', location: Location, …}
+18:37:15.461 harvester_sub_testapic.js:9 Window {window: Window, self: Window, document: document, name: '', location: Location, …}
+18:37:15.801 basket:4349 false
+18:37:16.047 freeShippingBanner?merchantId=705&country=KE&currency=KES&culture=en-GB&cb=1696941773:25 ShowFreeShippingBanner : Container Id : SO1 not found in DOM
+18:37:16.096 harvester_sub_testapic.js:9 Window {window: Window, self: Window, document: document, name: '', location: Location, …}
+18:37:16.404 harvester_sub_testapic.js:9 Window {window: Window, self: Window, document: document, name: '', location: Location, …}
+18:37:16.579 harvester_sub_testapic.js:9 Window {window: Window, self: Window, document: document, name: '', location: Location, …}
+18:37:16.886 basket:4349 false
+18:37:17.119 harvester_sub_testapic.js:9 Window {window: Window, self: Window, document: document, name: '', location: Location, …}
+18:37:17.251 basket:4349 false
+18:37:17.495 basket:4349 false
+18:37:17.759 harvester_sub_testapic.js:9 Window {window: Window, self: Window, document: document, name: 'a-b7hg78g6fl3j', location: Location, …}
+18:37:17.862 harvester_sub_testapic.js:9 Window {window: Window, self: Window, document: document, name: '', location: Location, …}
+18:37:20.203 VM4854:12 dwac_d64768f7aa8fa81249fd00e9b3=ZoPU4Q-1wjM3P9O75GlerkXrqC7f86_70S4%3D|dw-only|||USD|false|America%2FLos%5FAngeles|true
+18:37:22.638 harvester_sub_testapic.js:9 Window {window: Window, self: Window, document: document, name: '', location: Location, …}
